@@ -1,0 +1,9 @@
+.giro {
+    transform: rotate(-90deg);
+}
+
+.fas{
+	margin: auto;
+	font-size: 20px;
+	transition: 0.5s;
+}
